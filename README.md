@@ -23,3 +23,10 @@ This is a USB C HUB along with a Audio Out/In port. This design uses PCM2912A al
 <img width="1175" height="692" alt="Screenshot 2026-03-09 232249" src="https://github.com/user-attachments/assets/e434682d-0df3-4cd2-b463-90ce81206b7e" />
 <img width="1052" height="629" alt="Screenshot 2026-03-09 231909" src="https://github.com/user-attachments/assets/81d42b4d-9590-4019-b053-26b4f2a14367" />
 
+## BOM
+| SL NO | DESCRIPTION                                                | SUPPLIER    | PRICE |
+|------|------------------------------------------------------------|------------|-------|
+| 1 | [LCSC BOM items](https://github.com/ANSHUMANDOCX/USB-C-AUDIO-HUB/blob/main/PCB/BOM.csv) | LCSC | $22 |
+| 2 | PCB and Stencil | JLCPCB | $16 |
+| 3 | Screws and Heatset Inserts | Only Screws | $2 |
+|  | **TOTAL** |  | **$40** |
