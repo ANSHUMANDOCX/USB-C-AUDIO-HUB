@@ -6,7 +6,11 @@ This is a USB C HUB along with a Audio Out/In port. This design uses PCM2912A al
 - It has 3 downstream USB-C ports and 1 USB-C input so we can connect any desired length of cable we want to use with it
 - TRRS audio jack for headphones with integrated microphone along with a mute/unmute switch built into the hub 
 ## Usage guide
-using it is as simple as it can be you just need to plug into the single usb C on the side and connected it to your device there are no driver needed 
+- using it is as simple as it can be you just need to plug into the single usb C on the side and connected it to your device there are no driver needed 
+- It doesnt need any firmware flashing 
+- Its compatible with windows and linux 
+## Assembly guide
+All you need to do is place the PCB at the base plate align the holes and place the Body on top of it and screw the two parts using M2.5x6 or M2.5x8 countersunk screws.
 ## Parts used 
 - TRRS Audio port
 - USB C ports 
