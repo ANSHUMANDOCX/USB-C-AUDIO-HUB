@@ -34,4 +34,5 @@ All you need to do is place the PCB at the base plate align the holes and place 
 | 1 | [LCSC BOM items](https://github.com/ANSHUMANDOCX/USB-C-AUDIO-HUB/blob/main/PCB/BOM.csv) | LCSC | $22 |
 | 2 | PCB and Stencil | JLCPCB | $16 |
 | 3 | Screws and Heatset Inserts | Only Screws | $2 |
-|  | **TOTAL** |  | **$40** |
+|4| [Solder Paste](https://www.flipkart.com/babatools-rl-403-solder-paste-10cc-1-w-simple/p/itm13022305a7dd0?pid=SOIGP28DYHUXUUF6&lid=LSTSOIGP28DYHUXUUF6AXDR0B&marketplace=FLIPKART&cmpid=content_soldering-iron_23274603117_g_8965229628_gmc_pla&tgi=sem,1,G,11214002,g,search,,784823478926,,,,c,,,,,,,&&cmpid=content_23274603117_gmc_pla&gad_campaignid=23274603117) | Flipkart| 4$|
+|  | **TOTAL** |  | **$44** |
