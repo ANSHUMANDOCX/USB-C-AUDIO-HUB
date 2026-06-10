@@ -27,6 +27,13 @@ All you need to do is place the PCB at the base plate align the holes and place 
 <img width="1131" height="739" alt="Screenshot 2026-03-09 232302" src="https://github.com/user-attachments/assets/cee13178-5279-4b84-85aa-725fdc0a0b2d" />
 <img width="1175" height="692" alt="Screenshot 2026-03-09 232249" src="https://github.com/user-attachments/assets/e434682d-0df3-4cd2-b463-90ce81206b7e" />
 <img width="1052" height="629" alt="Screenshot 2026-03-09 231909" src="https://github.com/user-attachments/assets/81d42b4d-9590-4019-b053-26b4f2a14367" />
+## Build 
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 12 AM" src="https://github.com/user-attachments/assets/74229eda-19cd-4706-a6b3-b38cde351bdb" />
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 12 AM (1)" src="https://github.com/user-attachments/assets/e2050220-38ef-4624-8428-72270b8907dc" />
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 12 AM (2)" src="https://github.com/user-attachments/assets/4f082f20-75f7-492b-8ec0-615330163623" />
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 10 AM (1)" src="https://github.com/user-attachments/assets/e7074f02-8575-49bd-a0fb-763759227766" />
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 11 AM" src="https://github.com/user-attachments/assets/8f7e1585-d6f5-4692-9658-2a193bbd6298" />
+https://drive.google.com/file/d/1LVbVrCVM0A2IdHVQDUf04vvttPNs0SB3/view?usp=sharing
 
 ## BOM
 | SL NO | DESCRIPTION                                                | SUPPLIER    | PRICE |
